@@ -1,0 +1,20 @@
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\bin\Debug\calc 2.exe.config
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\bin\Debug\calc 2.exe
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\bin\Debug\calc 2.pdb
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\obj\Debug\calc 2.csproj.AssemblyReference.cache
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\obj\Debug\calc_2.Form1.resources
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\obj\Debug\calc_2.Properties.Resources.resources
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\obj\Debug\calc 2.csproj.GenerateResource.cache
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\obj\Debug\calc 2.csproj.CoreCompileInputs.cache
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\obj\Debug\calc 2.exe
+C:\Users\DoDa\VB\week 5\se3\calc 2\calc 2\obj\Debug\calc 2.pdb
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\bin\Debug\calc 2.exe.config
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\bin\Debug\calc 2.exe
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\bin\Debug\calc 2.pdb
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\obj\Debug\calc 2.csproj.AssemblyReference.cache
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\obj\Debug\calc_2.Form1.resources
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\obj\Debug\calc_2.Properties.Resources.resources
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\obj\Debug\calc 2.csproj.GenerateResource.cache
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\obj\Debug\calc 2.csproj.CoreCompileInputs.cache
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\obj\Debug\calc 2.exe
+C:\Users\DoDa\VB\week 5\calc 2\calc 2\obj\Debug\calc 2.pdb
